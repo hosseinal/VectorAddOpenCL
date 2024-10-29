@@ -1,0 +1,3 @@
+/home/albakrih/CLionProjects/OpenCL/cmake-build-debug/CMakeFiles/vector_add.dir
+/home/albakrih/CLionProjects/OpenCL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/albakrih/CLionProjects/OpenCL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
