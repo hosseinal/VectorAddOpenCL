@@ -11,11 +11,11 @@
 #SBATCH -t 00:30:00
 
 ### here where you load modules.
-module load TeachEnv/2022a
+module load RougeEnv/2021a
 module load cmake
-module load rocm             # Load the ROCm module (use correct version)
-module load rocm-clang                # Load ROCm Clang for HIP/OpenCL if needed
-module load gcc/13.2.0
+module load rocm/4.1.0             # Load the ROCm module (use correct version)
+module load rocm-clang/4.1.0
+module load gcc/10.3.0
 
 
 mkdir build
