@@ -7,7 +7,6 @@
 #SBATCH --mail-type=begin  # email me when the job starts
 #SBATCH --mail-type=end    # email me when the job finishes
 #SBATCH --nodes=1
-#SBATCH --output="ilu0_gpu_factorsp.%j.%N.out"
 #SBATCH -t 00:30:00
 
 ### here where you load modules.
