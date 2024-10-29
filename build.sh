@@ -25,3 +25,6 @@ cmake ..
 
 # Compile the project
 make -j
+
+
+./vector_add > vector_add.out
